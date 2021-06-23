@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4bfa1df3.chunk.css",
+    "main.js": "/static/js/main.b1cea087.chunk.js",
+    "main.js.map": "/static/js/main.b1cea087.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9669fca4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9669fca4.js.map",
+    "static/js/2.8008e2cd.chunk.js": "/static/js/2.8008e2cd.chunk.js",
+    "static/js/2.8008e2cd.chunk.js.map": "/static/js/2.8008e2cd.chunk.js.map",
+    "static/js/3.1fd531a3.chunk.js": "/static/js/3.1fd531a3.chunk.js",
+    "static/js/3.1fd531a3.chunk.js.map": "/static/js/3.1fd531a3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4bfa1df3.chunk.css.map": "/static/css/main.4bfa1df3.chunk.css.map",
+    "static/js/2.8008e2cd.chunk.js.LICENSE.txt": "/static/js/2.8008e2cd.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/spartanburg1.93d8e47b.jpg",
+    "static/media/logo-crop-transparent.ced8de32.png": "/static/media/logo-crop-transparent.ced8de32.png",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9669fca4.js",
+    "static/js/2.8008e2cd.chunk.js",
+    "static/css/main.4bfa1df3.chunk.css",
+    "static/js/main.b1cea087.chunk.js"
+  ]
+}
