@@ -1,24 +1,33 @@
 {
   "files": {
     "main.css": "/aygc-build/static/css/main.5e0ede86.chunk.css",
-    "main.js": "/aygc-build/static/js/main.16062a7c.chunk.js",
-    "main.js.map": "/aygc-build/static/js/main.16062a7c.chunk.js.map",
-    "runtime-main.js": "/aygc-build/static/js/runtime-main.b6b1c56d.js",
-    "runtime-main.js.map": "/aygc-build/static/js/runtime-main.b6b1c56d.js.map",
-    "static/js/2.aa727391.chunk.js": "/aygc-build/static/js/2.aa727391.chunk.js",
-    "static/js/2.aa727391.chunk.js.map": "/aygc-build/static/js/2.aa727391.chunk.js.map",
-    "static/js/3.1fd531a3.chunk.js": "/aygc-build/static/js/3.1fd531a3.chunk.js",
-    "static/js/3.1fd531a3.chunk.js.map": "/aygc-build/static/js/3.1fd531a3.chunk.js.map",
+    "main.js": "/aygc-build/static/js/main.eb6bb565.chunk.js",
+    "main.js.map": "/aygc-build/static/js/main.eb6bb565.chunk.js.map",
+    "runtime-main.js": "/aygc-build/static/js/runtime-main.7e65a37b.js",
+    "runtime-main.js.map": "/aygc-build/static/js/runtime-main.7e65a37b.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/aygc-build/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.5fb0873b.chunk.js": "/aygc-build/static/js/2.5fb0873b.chunk.js",
+    "static/js/2.5fb0873b.chunk.js.map": "/aygc-build/static/js/2.5fb0873b.chunk.js.map",
+    "static/js/3.f4a25f71.chunk.js": "/aygc-build/static/js/3.f4a25f71.chunk.js",
+    "static/js/3.f4a25f71.chunk.js.map": "/aygc-build/static/js/3.f4a25f71.chunk.js.map",
     "index.html": "/aygc-build/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/aygc-build/static/css/2.ef9168ec.chunk.css.map",
     "static/css/main.5e0ede86.chunk.css.map": "/aygc-build/static/css/main.5e0ede86.chunk.css.map",
-    "static/js/2.aa727391.chunk.js.LICENSE.txt": "/aygc-build/static/js/2.aa727391.chunk.js.LICENSE.txt",
+    "static/js/2.5fb0873b.chunk.js.LICENSE.txt": "/aygc-build/static/js/2.5fb0873b.chunk.js.LICENSE.txt",
+    "static/media/002.04c20ec1.jpg": "/aygc-build/static/media/002.04c20ec1.jpg",
+    "static/media/005.e7199a45.jpg": "/aygc-build/static/media/005.e7199a45.jpg",
+    "static/media/012.c1642eab.jpg": "/aygc-build/static/media/012.c1642eab.jpg",
+    "static/media/K5Smart.e99dc221.jpg": "/aygc-build/static/media/K5Smart.e99dc221.jpg",
+    "static/media/Map-1024x610.c1461b62.jpg": "/aygc-build/static/media/Map-1024x610.c1461b62.jpg",
     "static/media/App.css": "/aygc-build/static/media/spartanburg1.93d8e47b.jpg",
-    "static/media/logo-crop-transparent.ced8de32.png": "/aygc-build/static/media/logo-crop-transparent.ced8de32.png"
+    "static/media/logo-crop-transparent.ced8de32.png": "/aygc-build/static/media/logo-crop-transparent.ced8de32.png",
+    "static/media/yuncheng-locations.bdc0bdcb.png": "/aygc-build/static/media/yuncheng-locations.bdc0bdcb.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b6b1c56d.js",
-    "static/js/2.aa727391.chunk.js",
+    "static/js/runtime-main.7e65a37b.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.5fb0873b.chunk.js",
     "static/css/main.5e0ede86.chunk.css",
-    "static/js/main.16062a7c.chunk.js"
+    "static/js/main.eb6bb565.chunk.js"
   ]
 }
